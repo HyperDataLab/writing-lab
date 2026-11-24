@@ -1,0 +1,10 @@
+{
+  "indexes": [],
+  "fieldOverrides": [
+    {
+      "collectionGroup": "writingRecords",
+      "fieldPath": "recordJson",
+      "indexes": []
+    }
+  ]
+}

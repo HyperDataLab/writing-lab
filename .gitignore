@@ -1,0 +1,17 @@
+node_modules/
+.next/
+.open-next/
+out/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+.dev.vars
+.wrangler/
+worker/.wrangler/
+*firebase-adminsdk*.json
+*.tsbuildinfo
+*.log
+.DS_Store
+Thumbs.db

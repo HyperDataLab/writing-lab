@@ -1,0 +1,10 @@
+name = "writing-lab-api-local"
+main = "src/index.ts"
+compatibility_date = "2026-11-23"
+
+[vars]
+SSO_BASE_URL = "https://rpr-grobid-gateway.hpl-storage.workers.dev"
+RESEARCH_HUB_API_URL = "https://research-hub-files.hyperdatalab.workers.dev"
+ALLOWED_DOMAIN = "hyperdatalab.org"
+ALLOWED_ORIGINS = "http://localhost:3000,https://writinglab.hyperdatalab.org"
+LLM_ALLOWED_HOSTS = "9router.dcloud.io.vn,9router.oraltest.site"
